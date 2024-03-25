@@ -6,8 +6,8 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-      <Text>Leticia Beatriz Moura da Silva</Text>
-      <Text>Leticia Beatriz Moura da Silva</Text>
+      <Ingrid/>
+      <Leticia/>
 
     </View>
   );
